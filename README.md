@@ -1,7 +1,9 @@
+<body style="background-color: black; color: azure; font-family: Mona Sans, Hubot Sans, sans-serif; letter-spacing: 1.2;line-height: 1.56;">
+  
 <h1 align="center">Hi 👋, I'm Dixit Pambhar</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dixit9232&label=Profile%20views&color=0e75b6&style=flat" alt="dixit9232" /> </p>
 
@@ -69,3 +71,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dixit9232&show_icons=true&locale=en&layout=compact" alt="dixit9232" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dixit9232&show_icons=true&locale=en" alt="dixit9232" /></p>
+</body>
