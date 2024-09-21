@@ -1,4 +1,4 @@
-<body style="background-color: black; color: azure; font-family: Mona Sans, Hubot Sans, sans-serif; letter-spacing: 1.2;line-height: 1.56;">
+<body style="background-color: black; color: azure; font-family:  Hubot Sans, Mona Sans, sans-serif; letter-spacing: 1.2;line-height: 1.56;">
   
 <h1 align="center">Hi 👋, I'm Dixit Pambhar</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
